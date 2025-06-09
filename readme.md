@@ -6,7 +6,7 @@
 
 - <b> Website Development and Management </b>
   - [Web Developer SEO Stratergist and Digital Content Creater of a Toy Rental Company](https://www.jollyhopper.com) <b><i></b></i>
-  - [Blogs and Other Social Media Manager](https://www.jollyopper.com/blog) <b><i></b></i>
+  - [Blogs and Other Social Media Manager](https://www.jollyhopper.com/blog) <b><i></b></i>
   - [Digital Content Creater](https://www.instagram.com/jollyhoppertoys) <b><i></b></i>
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python](https://github.com/Archana-BR/Algorithms-Practice)
