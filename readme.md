@@ -1,7 +1,13 @@
 <h1>Hi, I'm Archana! <br/><a href="https://github.com/Archana-BR">Programmer</a> <a href="https://www.linkedin.com/in/Archanabr88/"></a>  </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2></b>
+- <b> I’m currently working as - Web Developer SEO Stratergist and Digital Content Creater of a Toy Rental Company </b>
+ 
 
+- <b> Website Development and Management </b>
+  - [Web Developer SEO Stratergist and Digital Content Creater of a Toy Rental Company](https://www.jollyhopper.com) <b><i></b></i>
+  - [Blogs and Other Social Media Manager](https://www.jollyopper.com/blog) <b><i></b></i>
+  - [Digital Content Creater](https://www.instagram.com/jollyhoppertoys) <b><i></b></i>
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python](https://github.com/Archana-BR/Algorithms-Practice)
   
